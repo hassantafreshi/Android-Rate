@@ -1,0 +1,8 @@
+<resources>
+    <string name="rate_dialog_title">امتیاز دادن به اپ</string>
+	
+    <string name="rate_dialog_message">اگر از استفاده این اپ لذت می برید، در صورت امکان به ما امتیاز دهید . چند دقیقه طول بیشتر طول وقت شما را نمی گیرد . ممنون از حمایت شما</string>
+    <string name="rate_dialog_ok">الان امتیاز می دهم</string>
+    <string name="rate_dialog_cancel">در آینده یادآوری کن</string>
+    <string name="rate_dialog_no">نه، دوست ندارم</string>
+</resources>
